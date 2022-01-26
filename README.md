@@ -7,4 +7,4 @@ as implementações realizadas durante os seguintes conteúdos/vídeos:
  - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Brayancrc/fut-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
 
 2 - Componentes, Layouts e UI/UX Em Apps Android
-- [relase/componentes-layouts-ui-ux-em-apps-android]()
+- [relase/componentes-layouts-ui-ux-em-apps-android](https://github.com/Brayancrc/fut-simulator-app/tree/main/app/src/main/res/layout)
