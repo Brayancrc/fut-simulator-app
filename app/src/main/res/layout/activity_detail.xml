@@ -105,9 +105,10 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 app:layout_constraintBottom_toBottomOf="@+id/ivHomeTeam"
                 app:layout_constraintEnd_toStartOf="@+id/tvVersus"
-                app:layout_constraintHorizontal_bias="0.243"
+                app:layout_constraintHorizontal_bias="0.31"
                 app:layout_constraintStart_toEndOf="@+id/ivHomeTeam"
                 app:layout_constraintTop_toTopOf="@+id/ivHomeTeam"
+                app:layout_constraintVertical_bias="0.511"
                 tools:text="99" />
 
             <com.google.android.material.textview.MaterialTextView
@@ -118,10 +119,9 @@
                 android:text="@string/textview"
                 app:layout_constraintBottom_toBottomOf="@+id/ivHomeTeam"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.472"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="@+id/ivHomeTeam"
-                app:layout_constraintVertical_bias="0.445"
+                app:layout_constraintVertical_bias="0.455"
                 tools:text="X" />
 
             <androidx.appcompat.widget.AppCompatImageView
