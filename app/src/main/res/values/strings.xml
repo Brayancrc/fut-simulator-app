@@ -3,4 +3,6 @@
     <string name="txt_simulate">Match Button Simulator.</string>
     <string name="imagem_do_time_mandante">Imagem do time mandante.</string>
     <string name="textview">TextView</string>
+
+    <string name="error_api">Error Inspired</string>
 </resources>

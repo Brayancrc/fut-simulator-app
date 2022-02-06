@@ -3,4 +3,6 @@
     <string name="app_name">Jogos Simulador</string>
     <string name="txt_simulate">Botão de simulação de partidas.</string>
     <string name="imagem_do_time_mandante">Imagem do time mandante.</string>
+
+    <string name="error_api">Erro Inesperado</string>
 </resources>
