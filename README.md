@@ -8,3 +8,6 @@ as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 2 - Componentes, Layouts e UI/UX Em Apps Android
 - [relase/componentes-layouts-ui-ux-em-apps-android](https://github.com/Brayancrc/fut-simulator-app/tree/main/app/src/main/res/layout)
+
+3 - Java e Kotlin Juntos!? Construindo Apps Android
+- [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Brayancrc/fut-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
